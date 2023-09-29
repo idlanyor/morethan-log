@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "roidev-blog",
-    description: "welcome to roidev-blog!",
+    title: "Roynaldi",
+    description: "Let's Build world of Coding Anywhere & Anytime.",
   },
 
   // CONFIG configration (required)
